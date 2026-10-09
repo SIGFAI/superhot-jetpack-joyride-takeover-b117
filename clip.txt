@@ -1,0 +1,6 @@
+Moments the clip must show:
+[x] 1. Jetpack goons hover on twin flames while the player lifts off on a machine-gun jet and grabs coins (mission board and coin counter climbing).
+[x] 2. A MISSILE! warning sign appears and the missile comes in beside a goon (the freeze-and-blast beat is the weakest: the blast is brief).
+[x] 3. A spinning zapper fries a goon (zap mission counts it).
+[x] 4. A LASER! warning, then a thick red laser gate fires and fries goons: MISSION COMPLETE banner and a coin shower.
+Weak: the last seconds are a still coin cloud.
